@@ -1,8 +1,6 @@
 package com.PatternProg;
 
-import org.w3c.dom.ls.LSOutput;
-
-public class Pattern1 {
+public class XPattern {
     public static void main(String[] args) {
         int n = 5;
         for (int i = 1; i <= n; i++) {
