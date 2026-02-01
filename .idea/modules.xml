@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jspider/Jspider.iml" filepath="$PROJECT_DIR$/Jspider/Jspider.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Jspider.iml" filepath="$PROJECT_DIR$/Jspider.iml" />
+>>>>>>> 2f9e39a2d0f0f82d47234a73fd1e6de432029b86
     </modules>
   </component>
 </project>
